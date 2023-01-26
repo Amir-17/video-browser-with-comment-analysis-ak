@@ -1,0 +1,7 @@
+.videoitem {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+  }

@@ -1,0 +1,8 @@
+.videodetail {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 0 5px;
+    margin-bottom: 10px;
+  }
+  

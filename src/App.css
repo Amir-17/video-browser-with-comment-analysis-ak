@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+
+.video-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}

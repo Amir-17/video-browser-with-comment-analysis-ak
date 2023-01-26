@@ -1,0 +1,21 @@
+.searchbar-body {
+    width: 100%;
+    margin: 5px auto 0 auto;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .searchbar-form {
+    width: 100%;
+  }
+  
+  .searchbar-header {
+    margin: 0 !important;
+  }
+  
+  .divider {
+    width: 100%;
+  }
+  
