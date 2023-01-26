@@ -76,6 +76,8 @@ function App() {
 	};
 
 	const fetchComments = () => {
+		setIsCommentAnalysisOpened(false);
+		setTopWordOccurences([]);
 		console.log(`${new Date()} - Entering fetchComments()`);
 		if (selectedVideo && JSON.stringify(selectedVideo) !== "{}") {
 			setIsLoadingComments(true);
